@@ -1,1 +1,1 @@
-# shcool_project2
+# 구글 API를 이용한 글자 인식
